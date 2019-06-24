@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HumanTest",
+            "request": "launch",
+            "mainClass": "app.HumanTest",
+            "projectName": "objectmaster"
+        }
+    ]
+}
